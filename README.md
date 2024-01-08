@@ -28,4 +28,8 @@ and make something like this,
 
 and is that!
 
+**know issues:**
+you need to make every spring unique! new instance for every value.
+![alt text](./solution.gif)!
+
 any suggestion is welcome! have a good coding!
